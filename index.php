@@ -1235,7 +1235,7 @@ if (isset($_GET['action']) && $_GET['action'] == "add") {
 			  <div class="text-inner text-right">
 				  
 
-<h4><span style="color: #ffffff;">Đồ chơi ô tô đẳng cấp</span></h4><h2 class="uppercase"><span style="color: #ffffff;"><strong>PhiPhi Performance </strong></span></h2>
+<h4><span style="color: #ffffff;">Đồ chơi ô tô đẳng cấp</span></h4><h2 class="uppercase"><span style="color: #ffffff;"><strong>Tiến Đạt Workshop</strong></span></h2>
 <a href="#product" target="_self" class="button secondary"  >
 	<span>Xem sản phẩm</span>
   </a>
@@ -1270,7 +1270,7 @@ if (isset($_GET['action']) && $_GET['action'] == "add") {
   padding-top: 60vh;
 }
 #banner-1378346233 .bg.bg-loaded {
-  background-image: url(https://i.ibb.co/YBKMHkN/825374.jpg);
+  background-image: url(https://wallpaperaccess.com/full/3158142.jpg);
 }
 </style>
   </div>

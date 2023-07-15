@@ -58,7 +58,7 @@ blockquote {
 blockquote p {
 	font-size: 14px
 }
-blockquote small {
+blockquote small::before {
 	content: "# "
 }
 .lead {
